@@ -1,3 +1,4 @@
 pyfiglet>=0.7.6, <1
 termcolor>=1.1.0, <2
 BeautifulSoup4>=4.6.0, <5
+twitter>=1.18.0, <2
