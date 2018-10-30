@@ -12,5 +12,5 @@
 
 `hello.py` et basalt python script til at vise at python (normalt) skrives i scripts og ikke i notebooks.
 
-`requirements.py` Google it.
+`requirements.txt` Google it.
 
