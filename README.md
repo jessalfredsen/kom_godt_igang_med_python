@@ -18,10 +18,9 @@
 
 Husk at downloade en kopi af jeres notebook inden i lukker ned for idag.
 
-main.ipynb [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jessalfredsen/kom_godt_igang_med_python.git/master?filepath=main.ipynb)
-
-notebook1.ipynb [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jessalfredsen/kom_godt_igang_med_python.git/master?filepath=notebook1.ipynb)
-
-exercises.ipynb [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jessalfredsen/kom_godt_igang_med_python.git/master?filepath=exercises.ipynb)
-
-exercises_solution.ipynb [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jessalfredsen/kom_godt_igang_med_python.git/master?filepath=exercises_solution.ipynb)
+|Notebook| Launch binder|
+|-|-|
+|main.ipynb|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jessalfredsen/kom_godt_igang_med_python.git/master?filepath=main.ipynb)|
+|notebook1.ipynb|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jessalfredsen/kom_godt_igang_med_python.git/master?filepath=notebook1.ipynb)|
+|exercises.ipynb|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jessalfredsen/kom_godt_igang_med_python.git/master?filepath=exercises.ipynb)|
+|exercises_solution.ipynb| [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jessalfredsen/kom_godt_igang_med_python.git/master?filepath=exercises_solution.ipynb)|
